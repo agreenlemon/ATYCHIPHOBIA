@@ -1,0 +1,15 @@
+C:\Users\stanl\OneDrive\Desktop\ah\bin\Debug\net7.0\ah.exe
+C:\Users\stanl\OneDrive\Desktop\ah\bin\Debug\net7.0\ah.deps.json
+C:\Users\stanl\OneDrive\Desktop\ah\bin\Debug\net7.0\ah.runtimeconfig.json
+C:\Users\stanl\OneDrive\Desktop\ah\bin\Debug\net7.0\ah.dll
+C:\Users\stanl\OneDrive\Desktop\ah\bin\Debug\net7.0\ah.pdb
+C:\Users\stanl\OneDrive\Desktop\ah\obj\Debug\net7.0\ah.csproj.AssemblyReference.cache
+C:\Users\stanl\OneDrive\Desktop\ah\obj\Debug\net7.0\ah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stanl\OneDrive\Desktop\ah\obj\Debug\net7.0\ah.AssemblyInfoInputs.cache
+C:\Users\stanl\OneDrive\Desktop\ah\obj\Debug\net7.0\ah.AssemblyInfo.cs
+C:\Users\stanl\OneDrive\Desktop\ah\obj\Debug\net7.0\ah.csproj.CoreCompileInputs.cache
+C:\Users\stanl\OneDrive\Desktop\ah\obj\Debug\net7.0\ah.dll
+C:\Users\stanl\OneDrive\Desktop\ah\obj\Debug\net7.0\refint\ah.dll
+C:\Users\stanl\OneDrive\Desktop\ah\obj\Debug\net7.0\ah.pdb
+C:\Users\stanl\OneDrive\Desktop\ah\obj\Debug\net7.0\ah.genruntimeconfig.cache
+C:\Users\stanl\OneDrive\Desktop\ah\obj\Debug\net7.0\ref\ah.dll
