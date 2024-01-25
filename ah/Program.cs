@@ -4514,7 +4514,7 @@ namespace ah //christmas breakcore
 
                   Console.ForegroundColor = ConsoleColor.DarkGray;
 
-                  Console.WriteLine("\n Before you continue anymore, please play 'ANIMATION_B'. This will give you important (notthatimportant) context.");
+                  Console.WriteLine("\n Before you continue, please play 'ANIMATION_B'.");
 
                   Console.ForegroundColor = ConsoleColor.Black;
 
@@ -4737,7 +4737,7 @@ namespace ah //christmas breakcore
 
                   Console.ForegroundColor = ConsoleColor.DarkGray;
 
-                  Console.WriteLine("\n Before you continue anymore, please play 'ANIMATION_D'. This will give you important (notthatimportant) context.");
+                  Console.WriteLine("\n Before you continue, please play 'ANIMATION_D'.");
 
                   Console.ForegroundColor = ConsoleColor.Black;
 
@@ -5883,12 +5883,6 @@ namespace ah //christmas breakcore
                 bool defend = false;
 
                 battle = true;
-
-                Console.BackgroundColor = ConsoleColor.Black;
-
-                Console.ForegroundColor = ConsoleColor.White;
-
-                Console.WriteLine("\n " + roundCounter + "");
                 //STORM
                 if (eventRoll >= 1 && eventRoll <= 2 && preventEvent == false)
                 {
